@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "pixi.js": "5.2.0",
-    "seedrandom": "^3.0.5",
+    "random-int": "^2.0.1",
+    "seedrandom": "3.0.5",
     "tinyqueue": "2.0.3"
   }
 }
